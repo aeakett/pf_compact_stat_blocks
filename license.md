@@ -51,6 +51,6 @@ Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc.
 
 **[Pathfinder Roleplaying Game Reference Document](http://paizo.com/pathfinderRPG/prd/)**. © 2011, Paizo Publishing, LLC; Author: Paizo Publishing, LLC.
 
-**[Perram’s Goblins]()** © 2013, Jefferson Jay Thacker
+**[Perram’s Goblins](www.thegm.org/downloads/perramGoblin.pdf)** © 2013, Jefferson Jay Thacker
 
-**[Pathfinder Adventure Path: Rise of the Runelords Anniversary Edition]()** © 2012, Paizo Publishing, LLC; Authors: Wolfgang Baur, Stephen S. Greer, James Jacobs, Nicolas Logue, Richard Pett, and Greg A. Vaughan.
+**[Pathfinder Adventure Path: Rise of the Runelords Anniversary Edition](http://paizo.com/products/btpy8tc0?Pathfinder-Adventure-Path-Rise-of-the-Runelords-Anniversary-Edition)** © 2012, Paizo Publishing, LLC; Authors: Wolfgang Baur, Stephen S. Greer, James Jacobs, Nicolas Logue, Richard Pett, and Greg A. Vaughan.
