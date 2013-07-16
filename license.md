@@ -49,6 +49,8 @@ Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc.
 
 **System Reference Document**. Copyright 2000, Wizards of the Coast, Inc.; Authors Jonathan Tweet, Monte Cook, Skip Williams, based on material by E. Gary Gygax and Dave Arneson.
 
+**Pathfinder Compact Stat Block Collection**. © 2013, Andrew Eakett.
+
 **[Pathfinder Roleplaying Game Reference Document](http://paizo.com/pathfinderRPG/prd/)**. © 2011, Paizo Publishing, LLC; Author: Paizo Publishing, LLC.
 
 **[Perram’s Goblins](www.thegm.org/downloads/perramGoblin.pdf)** © 2013, Jefferson Jay Thacker
