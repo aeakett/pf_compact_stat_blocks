@@ -92,7 +92,7 @@ of enfeeblement; 0(aw)---acid splash, detect magic, prestidigitation, ray of fro
 **special**: incorporeal; channel resistance+2; undead traits; create spawn (humanoid killed by str dmg becomes a shadow in 1d4r)
 
 <u>Tentamort</u>  
-**init**+5; all-arnd vis, blindsense30, drkvis60, **perc**+11; **ac**17 (t11, ff16), **hp** 39; **f**+4/**r**+5/**w**+7; **sp**20, **cl**20; **sting** +6/1d6+2(+poison), **tentacle** +2/1d6+1(+grab); **reach**10; **cmb/d**+6(+10 grap)/17(no trip); *Best2* 261  
+**init**+5; all-arnd vis, blindsense30, drkvis60, **perc**+11; **ac**17 (t11, ff16); **hp** 39; **f**+4/**r**+5/**w**+7; **sp**20, **cl**20; **sting** +6/1d6+2(+poison), **tentacle** +2/1d6+1(+grab); **reach**10; **cmb/d**+6(+10 grap)/17(no trip); *Best2* 261  
 **special**: constrict (1d6+1), poison (f:dc15, frq 2r, 1d4 con +nausea, cure 1sav)
 
 <u>Yeth Hound</u>
