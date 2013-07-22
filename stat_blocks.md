@@ -95,6 +95,12 @@ of enfeeblement; 0(aw)---acid splash, detect magic, prestidigitation, ray of fro
 **init**+5; all-arnd vis, blindsense30, drkvis60, **perc**+11; **ac**17 (t11, ff16); **hp** 39; **f**+4/**r**+5/**w**+7; **sp**20, **cl**20; **sting** +6/1d6+2(+poison), **tentacle** +2/1d6+1(+grab); **reach**10; **cmb/d**+6(+10 grap)/17(no trip); *Best2* 261  
 **special**: constrict (1d6+1), poison (f:dc15, frq 2r, 1d4 con +nausea, cure 1sav)
 
+
+<u>Tsuto Kaijitsu</u>  
+**init**+7; llvis, **perc**+11; **ac**17 (tt17, ff13); **hp** 31; **f**+4/**r**+9/**w**+5(+2v echant); **sp**30; **unarm stk** +5/1d6+1 or **flry blws** +4/+4/1d6+1 or **comp sh bow** +5/1d6+1/x3; **cmb/d**+3/20; *RotRLAA* 31  
+**special**: snk atk (+1d6), stun fist (2/d dc14), dflt arw, evasion  
+**gear**: pot cur lt wnds, ring prot +1, mw thieves’ tools, mw flute, silver earrings (25gp), 6 pouches gold dust (50gp each), 8 pouches silver dust (5gp each), 10pp
+
 <u>Yeth Hound</u>
 **init**+6; drkvis60, scent, **perc**+9; **ac**15 (t12, ff13); **hp** 30; **f**+3/**r**+6/**w**+6; **dr**5/slvr; **sp**40, **fl**60(good); **bite**(evil) +7/2d6+4 (+sinister bite & trip); **cmb/d**+7/19(23 trip); *Best* 286  
 **special**: bay (300' w:dc12 or panicked 2d4r); sinister bite (good targets w:dc14 or shaken for 1r)
