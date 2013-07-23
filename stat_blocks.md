@@ -36,8 +36,7 @@
 <u>Goblin Boomer</u>  
 **init**+4; drkvis60, **perc**+7; **ac**14 (t14, ff11); **hp** 36; **f**+5/**r**+8/**w**+0; **sp**20; **bomb**(dc15) +9/3d6+3 fire(splash)/x2 or **scrap bmb**(dc15) +9/3d6+3 +3 bleed (ref neagtes)/x2 or **immolation bmb**(dc15) +9/1d6+3 fire for 3rnds (full rnd ref neagtes)/x2; **cmb/d**+2/15; *Perram's Goblins* 4  
 **special**: mutagen (+2 nat. arm & +4/-2 to str/int, dex/wis, or con/cha for 50m); pt blnk sht (+1 atk & dmg within 30'); precise bombs (select 3 squares to not be affected by splash effects); precise shot (no -4 for thrw into melee); ricochet splsh wpn (make atk w/splsh wpn if it misses & lands in an occupied sqr)  
-**spells** (cl6): 2nd---bull's strength, cat's grace, cure mod wnds, shatter (dc15); 1st---divine favor, doom (dc14), obscuring mist, sanctuary (dc14), shield of faith; 0(aw)---bleed (dc13), detect magic, mending, stabilize  
-**spells** (cl5): 2nd (3/d)-cat's grace, blur, defensive shock; 1st (5/day)-shield, jump, abjuring step, linebreaker, targeted bomb admixture  
+**spells** (cl5): 2nd (3/d)---cat's grace, blur, defensive shock; 1st (5/d)---shield, jump, abjuring step, linebreaker, targeted bomb admixture  
 
 <u>Goblin Commando</u>  
 **init+3**; drkvi60 ft, **perc**+5; **ac**17 (t14, ff14); **f**+4/**r**+5/**w**+2; **sp**30; **mw horsechopper** +4/1d8+1; **sh bow**  +5/1d4/x3; **cmb/d**+1/14; *RotRLAA* 18  
