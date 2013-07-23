@@ -27,5 +27,5 @@ makeglossaries $LATEX_TARGET
 pdflatex $LATEX_TARGET
 pdflatex $LATEX_TARGET
 latexmk -c $LATEX_TARGET
-#rm statblock.dvi; rm $LATEX_TARGET
+rm statblock.dvi; rm $LATEX_TARGET
 rm $SOURCE_TEMP
