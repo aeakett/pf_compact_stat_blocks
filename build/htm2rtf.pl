@@ -1,3 +1,5 @@
+#!/usr/bin/perl
+
 use HTML::FormatRTF;
 
 my $out_file = "stat_blocks.rtf";
