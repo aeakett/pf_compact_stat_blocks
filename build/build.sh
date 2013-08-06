@@ -13,6 +13,8 @@ MARKDOWN_BIN=~/bin/multimarkdown
 
 # Do HTML & RTF
 cp $SOURCE_DOC $SOURCE_TEMP
+echo -e "\n* * *\n" >> $SOURCE_TEMP
+cat ../license.md >> $SOURCE_TEMP
 sed -i 's/x\([0-9]\)/\&times;\1/g' $SOURCE_TEMP
 sed -i 's/\([0-9]\)"/\1\&Prime;/g' $SOURCE_TEMP
 sed -i "s/\([0-9]\)'/\1\&prime;/g" $SOURCE_TEMP
@@ -24,21 +26,23 @@ mv stat_blocks.rtf $DIST_DIR
 mv $HTM_TEMP $HTM_TARGET
 
 # Do PDF
-cp $SOURCE_DOC $SOURCE_TEMP
-#sed -i 's/x\([0-9]\)/\\times\1/g' $SOURCE_TEMP
-echo '\documentclass[11pt,letterpaper]{article}' > $LATEX_TEMP
-echo '\begin{document}' >> $LATEX_TEMP
-$MARKDOWN_BIN --to=latex $SOURCE_TEMP >> $LATEX_TEMP
-echo '' >> $LATEX_TEMP
-echo '\end{document}' >> $LATEX_TEMP
-sed -i 's/x\([0-9]\)/$\\times$\1/g' $LATEX_TEMP
-sed -i "s/\([0-9]\)'/\1$^{\\\prime}$/g" $LATEX_TEMP
-sed -i 's/\([0-9]\)"/\1$^{\\\prime\\\prime}$/g' $LATEX_TEMP
-latexmk $LATEX_TEMP
-makeglossaries $LATEX_TEMP
-pdflatex $LATEX_TEMP
-pdflatex $LATEX_TEMP
-latexmk -c $LATEX_TEMP
-mv stat_blocks.pdf $DIST_DIR 
-rm stat_blocks.dvi; rm $LATEX_TEMP
-rm $SOURCE_TEMP
+#cp $SOURCE_DOC $SOURCE_TEMP
+#echo -e "\n- - -\n" >> $SOURCE_TEMP
+#cat ../license.md >> $SOURCE_TEMP
+##sed -i 's/x\([0-9]\)/\\times\1/g' $SOURCE_TEMP
+#echo '\documentclass[11pt,letterpaper]{article}' > $LATEX_TEMP
+#echo '\begin{document}' >> $LATEX_TEMP
+#$MARKDOWN_BIN --to=latex $SOURCE_TEMP >> $LATEX_TEMP
+#echo '' >> $LATEX_TEMP
+#echo '\end{document}' >> $LATEX_TEMP
+#sed -i 's/x\([0-9]\)/$\\times$\1/g' $LATEX_TEMP
+#sed -i "s/\([0-9]\)'/\1$^{\\\prime}$/g" $LATEX_TEMP
+#sed -i 's/\([0-9]\)"/\1$^{\\\prime\\\prime}$/g' $LATEX_TEMP
+#latexmk $LATEX_TEMP
+#makeglossaries $LATEX_TEMP
+#pdflatex $LATEX_TEMP
+#pdflatex $LATEX_TEMP
+#latexmk -c $LATEX_TEMP
+#mv stat_blocks.pdf $DIST_DIR 
+#rm stat_blocks.dvi; rm $LATEX_TEMP
+#rm $SOURCE_TEMP
