@@ -45,4 +45,4 @@ mv $HTM_TEMP $HTM_TARGET
 #latexmk -c $LATEX_TEMP
 #mv stat_blocks.pdf $DIST_DIR 
 #rm stat_blocks.dvi; rm $LATEX_TEMP
-#rm $SOURCE_TEMP
+rm $SOURCE_TEMP
