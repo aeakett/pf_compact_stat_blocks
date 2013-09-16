@@ -69,10 +69,10 @@
 **gear**: pot cure lght wnds (x2), wnd produce flame (34chg), wnd tree shape (4chg), +1 lthr armor, sling, spear, clk of resistance +1
 
 <u>Lyrie Akenja</u>  
-**init+3**; **perc**+2; **ac**18 (t14, ff14); **f**+3/**r**+5/**w**+5; **sp**30; **dagger** +1/1d4-1/19-20; **cmb/d**+1/15; *RotRLAA* 59  
-**special**: hand of the apprentice (6/d); arcane bond (cat)  
-**spells** (cl4, conc+7): 2nd---invisibility, mirror image, shatter (dc16); 1st---burning hands (dc15), grease (dc14), mage armor, ray
-of enfeeblement; 0(aw)---acid splash, detect magic, prestidigitation, ray of frost  
+**init+3**; **perc**+2; **ac**18 (t14, ff14); **hp** 24; **f**+3/**r**+5/**w**+5; **sp**30; **dagger** +1/1d4-1/19-20; **cmb/d**+1/15; *RotRLAA* 59  
+**special**: hand of the apprentice (6/d); arcane bond (cat)
+**spells** (cl4, conc+7): 2nd—invisibility, mirror image, shatter (dc16); 1st—burning hands (dc15), grease (dc14), mage armor, ray
+of enfeeblement; 0(aw)—acid splash, detect magic, prestidigitation, ray of frost
 **gear**: pot cure lght wnds, scr comprehend lang, scr min image, scr see inv, scr sleep, scr whispering wind, wnd magic missile (38chg), dagger, clk resistance +1, silver comb (25gp), fine silk gown (60gp), everburning torch, small pouch of artifacts (hair, fingernail clipping, used handkerchiefs, and a pearl earring (50gp)), 3pp, 278gp, spellbook (all prep, comprehend languages, detect secret doors, floating disc, identify, locate object, minor image, obscuring mist, see invisibility, sleep, spider climb)
 
 <u>Nualia</u>  
@@ -81,9 +81,9 @@ of enfeeblement; 0(aw)---acid splash, detect magic, prestidigitation, ray of fro
 **spells** (cl6, conc+9): 1/d---daylight; (cl4, conc+7): 2nd---bull's strength, cat's grace, cure mod wnds, shatter (dc15); 1st---divine favor, doom (dc14), obscuring mist, sanctuary (dc14), shield of faith; 0(aw)---bleed (dc13), detect magic, mending, stabilize  
 **gear**: +1 breastplate, +1 bast sw, mw c.longbow, 20 arr, gold holy symbol (100gp), 7pp, 5gp
 
-<u>Orik Vancaskerkin</u>  
-**init**+1; **perc**+1; **ac**21 (t11, ff20); **f**+7/**r**+2/**w**+2(+3 v fear); **sp**30; **mw bastard sword** +9/1d10+5/19 or **c.longbow** +5/1d8+3/x3; **cmb/d**+7/18; *RotRLAA* 55  
-**special**: power atk, blind-fight  
+<u>Orik Vancaskerkin</u>
+**init**+1; **perc**+1; **ac**21 (t11, ff20); **hp** 42; **f**+7/**r**+2/**w**+2(+3 v fear); **sp**30; **mw bastard sword** +9/1d10+5/19 or **c.longbow** +5/1d8+3/×3; **cmb/d**+7/18; *RotRLAA* 55
+**special**: power atk, blind-fight
 **gear**: pot cure mod wnds, +1 banded mail, mw hvy st shld, c.longbow, 20 arw, mw bastard swd, everburning torch, 2 pp, 95 gp
 
 <u>Shadow</u>  
