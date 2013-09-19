@@ -1,5 +1,5 @@
 <u>Barghest, Greater</u>  
-*lrg;* **init**+6; drkvis60, scent, **perc**+16; **ac**20 (t11, ff18); **hp** 85; **f**+9/**r**+10/**w**+10; **dr**10/mag; **sp**40; **bite** +14/1d8+6, **2 claws** +14/1d6+6; **cmb/d**+16/28(32 trip); *Best 27*  
+**lrg**; **init**+6; drkvis60, scent, **perc**+16; **ac**20 (t11, ff18); **hp** 85; **f**+9/**r**+10/**w**+10; **dr**10/mag; **sp**40; **bite** +14/1d8+6, **2 claws** +14/1d6+6; **cmb/d**+16/28(32 trip); *Best 27*  
 **spells** (cl9, conc+8): aw-blink, invisibility sphere, levitate, misdirection; 1/d-charm monster (dc18), crushing despair (dc18), dimension door, mass bull's strength, mass enlarge  
 **special**: combat ref(+2), change shape (goblin or wolf, as polymorph)
 
@@ -94,6 +94,9 @@ of enfeeblement; 0(aw)—acid splash, detect magic, prestidigitation, ray of fro
 **init**+5; all-arnd vis, blindsense30, drkvis60, **perc**+11; **ac**17 (t11, ff16); **hp** 39; **f**+4/**r**+5/**w**+7; **sp**20, **cl**20; **sting** +6/1d6+2(+poison), **tentacle** +2/1d6+1(+grab); **reach**10; **cmb/d**+6(+10 grap)/17(no trip); *Best2* 261  
 **special**: constrict (1d6+1), poison (f:dc15, frq 2r, 1d4 con +nausea, cure 1sav)
 
+<u>Troll</u>  
+**lrg**; **init**+2; drkvis60, llvis, scent, **perc**+8; **ac**16 (t11, ff14); **hp** 63; **regen** 5 (acid or fire); **f**+11/**r**+4/**w**+3; **sp**30; **bite** +8/1d8+5, **2 claws** +8/1d6+5; **cmb/d**+10/22;  *Best 268*  
+**special**: rend (2 claws/1d6+7)
 
 <u>Tsuto Kaijitsu</u>  
 **init**+7; llvis, **perc**+11; **ac**17 (tt17, ff13); **hp** 31; **f**+4/**r**+9/**w**+5(+2v echant); **sp**30; **unarm stk** +5/1d6+1 or **flry blws** +4/+4/1d6+1 or **comp sh bow** +5/1d6+1/x3; **cmb/d**+3/20; *RotRLAA* 31  
