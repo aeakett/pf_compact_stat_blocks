@@ -1,0 +1,18 @@
+$serif-font-stack: "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
+$sans-serif-font-stack: "Helvetica Neue", Helvetica, Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, Arial, sans-serif;
+$monospace-font-stack: Consolas, Inconsolata, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
+$futura-font-stack: Futura, Futura-Medium, "Futura Medium", "Century Gothic", CenturyGothic, "Apple Gothic", AppleGothic, "URW Gothic L", "Avant Garde", sans-serif;
+
+/* Provides the following font families: Ubuntu, "Ubuntu Condensed" */
+@import url(http://fonts.googleapis.com/css?family=Ubuntu|Ubuntu+Condensed&text=Compact%20Pathfinder%20Stat%20Blocks);
+
+/* @font-face {
+    font-family: 'uglyquaregular';
+    src: url('fonts/UglyQua-webfont.eot');
+    src: url('fonts/UglyQua-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/UglyQua-webfont.woff') format('woff'),
+         url('fonts/UglyQua-webfont.ttf') format('truetype'),
+         url('fonts/UglyQua-webfont.svg#uglyquaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+} */
