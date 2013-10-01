@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SOURCE_DOC=../stat_blocks.md
+SOURCE_DOC=../source/monsters.mmd
 SOURCE_TEMP=stat_block.md
 DIST_DIR=../dist/
 HTM_FILE=stat_blocks.htm
@@ -26,7 +26,7 @@ cp spells.mmd $SOURCE_TEMP
 # Do HTML & RTF
 cp $SOURCE_DOC $SOURCE_TEMP
 echo -e "\n* * *\n" >> $SOURCE_TEMP
-cat ../license.md >> $SOURCE_TEMP
+cat ../source/license.md >> $SOURCE_TEMP
 sed -i 's/x\([0-9]\)/\&times;\1/g' $SOURCE_TEMP
 sed -i 's/\([0-9]\)"/\1\&Prime;/g' $SOURCE_TEMP
 sed -i "s/\([0-9]\)'/\1\&prime;/g" $SOURCE_TEMP
