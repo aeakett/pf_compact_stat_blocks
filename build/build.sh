@@ -16,7 +16,9 @@ cat ../source/license.md >> $SOURCE_TEMP
 sed -i 's/x\([0-9]\)/\&times;\1/g' $SOURCE_TEMP
 sed -i 's/\([0-9]\)"/\1\&Prime;/g' $SOURCE_TEMP
 sed -i "s/\([0-9]\)'/\1\&prime;/g" $SOURCE_TEMP
-echo '<!DOCTYPE html>\n   <head>\n      <meta charset="utf-8">\n      <title>Compact Pathfinder Stat Blocks</title>\n      <style>h6{display:block;font-size:1em;margin:0em;font-weight:bold;text-decoration:underline;}p{margin-top:0em;}</style>\n   </head>\n   <body>' > $HTM_TEMP
+echo '<!DOCTYPE html><head><meta charset="utf-8"><title>Compact Pathfinder Stat Blocks</title><style>' > $HTM_TEMP
+sass style.scss >> $HTM_TEMP
+echo '</style></head><body>' >> $HTM_TEMP
 $MARKDOWN_BIN $SOURCE_TEMP >> $HTM_TEMP
 echo '   </body>\n</html>' >> $HTM_TEMP
 ./htm2rtf.pl
