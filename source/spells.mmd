@@ -81,6 +81,12 @@ Subject's outline appears blurred, granting concealment (20% miss chance). See i
 
 A confused character who can't carry out the indicated action does nothing but babble incoherently. Any confused character attacked automatically attacks its attackers on its next turn, as long as it is still confused when its turn comes.
 
+<u>Create Water</u>  
+**Cast Time**: std act  
+**Range**: 25' + 5'/2 lvls; **Effect**: up to 2 gal. water/lvl  
+**Save** none; **SR**: no  
+**Desc**: Create clean drinkable water that disappears after 1d if not consumed.
+
 <u>Crushing Despair</u>  
 **Cast Time**: std act  
 **Range**: 30' cone; **Duration**: 1m/lvl;  
@@ -133,6 +139,11 @@ You detect surface thoughts. Rnd 1: Presence or absence of thoughts. Rnd 2: # of
 **Target**:  you & tchd objs or tchd willing creatures  
 **Desc**: Instantly move from current loc to another spot within range. Can bring objs up to max load. May also bring 1 willing Med or smaller creature or its equivalent per 3 lvls. Lrg=2Med, Hug=2Lrg, and so on. All creatures transported must be in contact with one another.  
 
+<u>Disguide Self</u>  
+**Cast Time**: std act  
+**Range**: prsnl; **Duration** 10m/lvl  
+**Desc**: Make yourself—including clothing, armor, weapons, & equipment—look different. You can seem 1' shorter or taller. Can change only minor features, or look like an entirely different person or gender. +10 on Disguise checks. Creatures interacting with you get a Will save to disbelieve.  
+
 <u>Divine Favor</u>  
 **Cast Time**: std act  
 **Range**: personal; **Duration**: 1m;  
@@ -155,6 +166,12 @@ You detect surface thoughts. Rnd 1: Presence or absence of thoughts. Rnd 2: # of
 **Range**: 25' + 5'/2 lvls; **Target**: 1 humanoid creature/lvl, no more than 30' apart; **Duration**: 1m/lvl;  
 **Save**: f:negates; **SR**: yes  
 **Desc**: Causes instant growth, x2 height & x8 weight. size cat increases by 1. Target gains +2 size bonus to str, a –2 size penalty to dex (min 1), & –1 on attack & AC. If target grows to Large, gains reach 10. If no room available for the growth, target attains max possible size & may make a str check (using new str) to burst any enclosures. If fails, it's constrained w/o harm by the materials enclosing it. All equipment worn or carried by target is enlarged. Melee weapons increase in dmg (1d2→1d3→1d4→1d6→1d8→2d6→3d6, 1d10→2d8→3d8, 1d12→3d6, 2d4→2d6, 2d10→4d8). Items leaving posession revert to normal size.  
+
+<u>False Vision</u>  
+**Cast Time**: std act  
+**Range**: tch; **Area**: 40' rad emanation; **Duration**: 1h/lvl  
+**Save**: none; **SR**: no  
+**Desc**: Any divination (scrying) spell used to view anything within area of spell instead receivea a false image  as defined by you at casting. You can concentrate to change the image as desired. While not concentrating, image remains static.  
 
 <u>Freedom Of Movement</u>  
 **Cast Time**: std act  
@@ -271,6 +288,12 @@ You detect surface thoughts. Rnd 1: Presence or absence of thoughts. Rnd 2: # of
 **Range**: touch; **Target**: creature touched; **Duration**: 1h/lvl  
 **Desc**: +4 armor bonus to AC. This is a force effect and incorporeal creatures can't bypass.  
 
+<u>Mind Fog</u>  
+**Cast Time**: std act  
+**Range**: 100' + 10'/lvl; **Effect** fog in 20' rad, 20' high; **Duration**: 30m & 2d6r  
+**Save**: w:neg; **SR**: yes  
+**Desc**: Creatures in area take –10 on Wis checks and Will saves. Affected creatures take penalty while in cloud & 2d6r after leaving it. Moderate wind disperses cloun in 4r, strong wind in 1r.  
+
 <u>Mirror Image</u>  
 **Cast Time**: std act  
 **Range**: personal; **Target**: you; **Duration**: 1m/lvl  
@@ -281,10 +304,16 @@ You detect surface thoughts. Rnd 1: Presence or absence of thoughts. Rnd 2: # of
 **Range**: 25' + 5'/2 lvls; **Target**: 1 creature or obj, ≤ 10' cube; **Duration**: 1h/lvl  
 **Desc**: Misdirect the information from divination spells that reveal auras (detect evil, detect magic, discern lies, and the like). Choose another obj in range. For duration, the subject of misdirection is detected as if it were the other object.  
 
+<u>Mislead</u>  
+**Cast Time**: std act  
+**Range**: 25' + 5'/2 lvls; **Duration**: 1r/lvl (invis) & conc + 3r (double)  
+**Save**: none or w:disbelief (if interacted with); **SR**: no  
+**Desc**: Become invis (as greater invisibility), & an illusory double of you appears. Concentrate to make double move/act/speak (can't attack or cast spells).
+
 <i>Modify Memory</i>  
 **Cast Time**: 1r  
 **Range**: 25' + 5'/2 lvls; **Target**: 1 living creature; **Duration**: perm  
-**Save**: w:negates; **SR**: yes  
+**Save**: w:neg; **SR**: yes  
 **Desc**: modify as many as 5m target's memories in one of the following ways.  
 * Eliminate all memory of an event the subject actually experienced. Cannot negate charm, geas/quest, suggestion, or similar.  
 * Allow subject to recall with perfect clarity an event it actually experienced.  
@@ -292,17 +321,53 @@ You detect surface thoughts. Rnd 1: Presence or absence of thoughts. Rnd 2: # of
 * Implant a memory of an event the subject never experienced.  
 If subject fails save, proceed w/spell by spending as much as 5m visualizing the memory to modify. If concentration is disturbed before complete, or if subject is ever out of range during this time, the spell is lost.  
 
+<u>Nightmare</u>  
+**Cast Time**: 10m  
+**Range**: unlimited; **Target**: 1 creature  
+**Save**: w:neg; **SR**: yes  
+**Desc**: You send a nightmare which prevents restful sleep, causes 1d10 dmg, leaves subject fatigued, & unable to regain arcane spells for 24h.  
+
+The difficulty of the save depends on your knowledge the subject and the physical connection (if any) you have to that creature.
+
+|Knowledge                                 |Will Save Mod|
+|------------------------------------------|-------------|
+|None*                             	       |+10          |
+|Secondhand (you have heard of the subject)|+5           |
+|Firsthand (you have met the subject)      |+0           |
+|Familiar (you know the subject well)      |–5           |
+*Must have some sort of connection to a creature of which you have no knowledge.  
+
+|Connection                                |Will Save Mod|
+|------------------------------------------|-------------|
+|Likeness or picture                       |–2           |
+|Possession or garment                     |–4           |
+|Body part, lock of hair, bit of nail, etc.|–10          |
+
 <u>Obscuring Mist</u>  
 **Cast Time**: std act  
 **Range**: 20'; **Effect**: cloud 20' radius from you, 20' high; **Duration**: 1m/lvl  
 **Save**: none; **SR**: no  
 **Desc**: Stationary cloud obscures all sight, including darkvision, beyond 5'. A creature 5' away has concealment (20% miss chance). Creatures farther away have total concealment (50% miss chance, and the attacker cannot use sight to locate the target).  Moderate wind (11+ mph), such as from a gust of wind spell, disperses the fog in 4r. Strong wind (21+ mph) disperses the fog in 1r. A fireball, flame strike, or similar burns away the fog in the spell's area.  
 
+<u>Phantasmal Killer</u>  
+**Cast Time**: std act  
+**Range**: 100' + 10'/lvl; **Target**: 1 creature  
+**Save**: w:disbelief, then f:partial, see text; **SR**: yes  
+**Desc**: Create a fearsome phantasmal image in taget's mind. Only the spell's subject can see image. Target 1st gets a Will save to disbelieve. If that fails, phantasm touches subject & subject must succeed on a Fort save or die from fear. If save is successful, subject takes 3d6 dmg.  
+
+If subject succeeds Will save & possesses telepathy, spell can be turned upon you. You must then disbelieve it or become subject to its deadly fear attack.  
+
 <u>Produce Flame</u>  
 **Cast Time**: std act  
 **Range**: tch or 120'; **Duration**: 1m/lvl  
 **Save**: none; **SR**: yes  
 **Desc**: Flames as bright as torch appear in hand (harm neither you nor your equipment). Can strike opponent w/melee touch attack, dealing 1d6~~fire~~+1/lvl (max +5). Or, hurl flames up to 120' as ranged touch attack. Flames reappear in hand. Each ranged attack reduces duration by 1m.  
+
+<u>Project Image</u>  
+**Cast Time**: std act  
+**Range**: 100' + 10'/lvl; **Duration** 1r/lvl  
+**Save**: w:disbelief (if interacted with); **SR**: no  
+**Desc**: Create an illusionary version of yourself that you can move, hear and see through, and cast spells through. Must maintain line of sight with image.  
 
 <u>Rage</u>  
 **Cast Time**: std act  
@@ -347,6 +412,16 @@ If subject fails save, proceed w/spell by spending as much as 5m visualizing the
 - Or target a single solid nonmagical object, regardless of composition, weighing up to 10 lbs/lvl.  
 - Or target a crystalline creature (of any weight). Deals 1d6~~sonic~~ damage per caster level (max 10d6), with f:½.  
 
+<u>Shadow Walk</u>  
+**Cast Time**: std act  
+**Range**: tch; **Target**: 1 touched creature/lvl; **Duration**: 1h/lvl  
+**Save**: w:neg; **SR**: yes  
+**Desc**: Must be used in area of dim light. You & targets travel at 50mph but can't make out details of area/terrain or judge distance well. When spell ends, you appear 1d10×100' in random dir from desired endpoint. If this places you in a solid object, you shift 1d10×1,000' in same dir. If this still places you in a solid object, you appear in the nearest empty space available, but the strain of this renders fatigued (no save).  
+
+Spell can also be used to travel to other planes bordering the Plane of Shadow, but requires transiting the Plane of Shadow, taking 1d4h.  
+
+Any creatures touched when spell is cast also come without. They may opt to follow you, wander off through the plane, or stumble back into the Material Plane (50% chance for either of the latter results if they are lost or abandoned by you). Creatures unwilling to accompany you receive a Will saving throw, negating the effect if successful.  
+
 <u>Shield</u>  
 **Cast Time**: std act  
 **Range**: prsnl; **Duration**: 1m/lvl  
@@ -363,10 +438,24 @@ If subject fails save, proceed w/spell by spending as much as 5m visualizing the
 **Save**: f:partial; **SR**: yes  
 **Desc**: Blast area with a tremendous cacophony. Every creature in the area takes 1d8~~sonic~~ & must succeed on a Fort save to avoid being stunned (dropeverything held, can't take actions, **ac** -2, lose dex to AC) for 1r. Creatures that cannot hear are not stunned but are still damaged.  
 
+<u>Spark</u>  
+**Cast Time**: std act  
+**Range**: 25' + 5'/2 lvls; **Target**: one fine object  
+**Save**: f:neg; **SR**: yes  
+**Desc**: Make an unattended fine flammable object catch on fire. This works as if you were using flint and steel except that you can use spark in any sort of weather and it takes much less time to actually ignite an object.  
+
 <u>Stabilize</u>  
 **Cast Time**: std act  
 **Range**: 25' + 5'/2 lvls; **Target**: one living creature;  
 **Desc**: Target w/≤ -1 hp automatically stabilizes.  
+
+<u>Suggestion</u>  
+**Cast Time**: std act  
+**Range**: 25' + 5'/2 lvls; **Target**: 1 creature; **Duration**: 1h/lvl or until completed  
+**Save**: w:neg; **SR**: yes  
+**Desc**: Influence actions of target by suggesting a course of activity (limited to a sentence or two). Asking target to do some obviously harmful act auto negates the effect of the spell.  
+
+Very reasonable suggestions cause save to be made with -1 or -2 penalty.  
 
 <u>Touch Of Idiocy</u>  
 **Cast Time**: std act  
