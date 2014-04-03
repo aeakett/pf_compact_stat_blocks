@@ -45,49 +45,51 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 
 15. COPYRIGHT NOTICE
 
-Open Game License v 1.0 © 2000, Wizards of the Coast, Inc.;  
+Open Game License v 1.0 © 2000, Wizards of the Coast, Inc.;
 
-**Pathfinder Compact Stat Block Collection**. © 2013, Andrew Eakett.  
+**Pathfinder Compact Stat Block Collection**. © 2013, Andrew Eakett.
 
-**[Pathfinder Roleplaying Game Reference Document](http://paizo.com/pathfinderRPG/prd/)**. © 2011, Paizo Publishing, LLC; Author: Paizo Publishing, LLC.  
+**[Pathfinder Roleplaying Game Reference Document](http://paizo.com/pathfinderRPG/prd/)**. © 2011, Paizo Publishing, LLC; Author: Paizo Publishing, LLC.
 
-**[Advanced Bestiary](http://greenroninstore.com/products/advanced-bestiary-for-3rd-era-pdf)** © 2004, Green Ronin Publishing, LLC; Author: Matt Sernett.  
+**[Advanced Bestiary](http://greenroninstore.com/products/advanced-bestiary-for-3rd-era-pdf)** © 2004, Green Ronin Publishing, LLC; Author: Matt Sernett.
 
-**[Advanced Player’s Guide](http://paizo.com/store/byCompany/p/paizoPublishingLLC/pathfinder/pathfinderRPG/v5748btpy8b6g)**. © 2010, Paizo Publishing, LLC; Author: Jason Buhlman, based on material by Jonathan Tweet, Monte Cook, and Skip Williams.  
+**[Advanced Player’s Guide](http://paizo.com/store/byCompany/p/paizoPublishingLLC/pathfinder/pathfinderRPG/v5748btpy8b6g)**. © 2010, Paizo Publishing, LLC; Author: Jason Buhlman, based on material by Jonathan Tweet, Monte Cook, and Skip Williams.
 
-**[The Book of Experimental Might](http://www.rpgnow.com/product/54689/Book-of-Experimental-Might)**. Copyright 2008, Monte J. Cook. All rights reserved.  
+**[The Book of Experimental Might](http://www.rpgnow.com/product/54689/Book-of-Experimental-Might)**. Copyright 2008, Monte J. Cook. All rights reserved.
 
-**[Monster Focus: Ghouls](http://minotaurrpg.com/monster-focus/ghouls/)**. Copyright 2013, Jason Bulmahn; Author: Jason Bulmahn.  
+**[Monster Focus: Ghouls](http://minotaurrpg.com/monster-focus/ghouls/)**. Copyright 2013, Jason Bulmahn; Author: Jason Bulmahn.
 
-**[Pathfinder Adventure Path: Rise of the Runelords Anniversary Edition](http://paizo.com/products/btpy8tc0?Pathfinder-Adventure-Path-Rise-of-the-Runelords-Anniversary-Edition)** © 2012, Paizo Publishing, LLC; Authors: Wolfgang Baur, Stephen S. Greer, James Jacobs, Nicolas Logue, Richard Pett, and Greg A. Vaughan.  
+**[Pathfinder Adventure Path: Rise of the Runelords Anniversary Edition](http://paizo.com/products/btpy8tc0?Pathfinder-Adventure-Path-Rise-of-the-Runelords-Anniversary-Edition)** © 2012, Paizo Publishing, LLC; Authors: Wolfgang Baur, Stephen S. Greer, James Jacobs, Nicolas Logue, Richard Pett, and Greg A. Vaughan.
 
-**[Pathfinder Module: No Response from Deepmar](http://paizo.com/products/btpy8pki)** © 2012, Paizo Publishing, LLC; Author: Stephen S. Greer.  
+**[Pathfinder Module: No Response from Deepmar](http://paizo.com/products/btpy8pki)** © 2012, Paizo Publishing, LLC; Author: Stephen S. Greer.
 
-**[Pathfinder Roleplaying Game Bestiary](http://paizo.com/store/byCompany/p/paizoPublishingLLC/pathfinder/pathfinderRPG/v5748btpy85k5)** © 2009, Paizo Publishing, LLC; Authors: Jason Bulmahn, Brian Cortijo, Adam Daigle, Mike Ferguson, Joshua J. Frost, James Jacobs, Rob McCreary, Erik Mona, Sean K Reynolds, F. Wesley Schneider, Lisa Stephens, James L. Sutter, and Greg A. Vaughn, based on material by Jonathan Tweet, Monte Cook, and Skip Williams.  
+**[Pathfinder Roleplaying Game Bestiary](http://paizo.com/store/byCompany/p/paizoPublishingLLC/pathfinder/pathfinderRPG/v5748btpy85k5)** © 2009, Paizo Publishing, LLC; Authors: Jason Bulmahn, Brian Cortijo, Adam Daigle, Mike Ferguson, Joshua J. Frost, James Jacobs, Rob McCreary, Erik Mona, Sean K Reynolds, F. Wesley Schneider, Lisa Stephens, James L. Sutter, and Greg A. Vaughn, based on material by Jonathan Tweet, Monte Cook, and Skip Williams.
 
-**[Pathfinder Roleplaying Game Bestiary 2](http://paizo.com/store/byCompany/p/paizoPublishingLLC/pathfinder/pathfinderRPG/v5748btpy8ddb)** © 2010, Paizo Publishing, LLC; Authors: Wolfgang Baur, Jason Bulmahn, Adam Daigle, Graeme Davis, Crystal Frasier, Joshua J. Frost, Tim Hitchcock, Brandon Hodge, James Jacobs, Steve Kenson, Hal MacLean, Martin Mason, Rob McCreary, Erik Mona, Jason Nelson, Patrick Renie, Sean K Reynolds, F. Wesley Schneider, Owen K.C. Stephens, James L. Sutter, Russ Taylor, and Greg A. Vaughan, based on material by Jonathan Tweet, Monte Cook, and Skip Williams.  
+**[Pathfinder Roleplaying Game Bestiary 2](http://paizo.com/store/byCompany/p/paizoPublishingLLC/pathfinder/pathfinderRPG/v5748btpy8ddb)** © 2010, Paizo Publishing, LLC; Authors: Wolfgang Baur, Jason Bulmahn, Adam Daigle, Graeme Davis, Crystal Frasier, Joshua J. Frost, Tim Hitchcock, Brandon Hodge, James Jacobs, Steve Kenson, Hal MacLean, Martin Mason, Rob McCreary, Erik Mona, Jason Nelson, Patrick Renie, Sean K Reynolds, F. Wesley Schneider, Owen K.C. Stephens, James L. Sutter, Russ Taylor, and Greg A. Vaughan, based on material by Jonathan Tweet, Monte Cook, and Skip Williams.
 
-**[Pathfinder Roleplaying Game Bestiary 3](http://paizo.com/pathfinderRPG/v5748btpy8l51)** © 2011, Paizo Publishing, LLC; Authors: Jesse Benner, Jason Bulmahn, Adam Daigle, James Jacobs, Michael Kenway, Rob McCreary, Patrick Renie, Chris Sims, F. Wesley Schneider, James L. Sutter, and Russ Taylor, based on material by Jonathan Tweet, Monte Cook, and Skip Williams.  
+**[Pathfinder Roleplaying Game Bestiary 3](http://paizo.com/pathfinderRPG/v5748btpy8l51)** © 2011, Paizo Publishing, LLC; Authors: Jesse Benner, Jason Bulmahn, Adam Daigle, James Jacobs, Michael Kenway, Rob McCreary, Patrick Renie, Chris Sims, F. Wesley Schneider, James L. Sutter, and Russ Taylor, based on material by Jonathan Tweet, Monte Cook, and Skip Williams.
 
-**[Pathfinder Roleplaying Game Bestiary 4](http://paizo.com/products/btpy8yop)** © 2013, Paizo Publishing, LLC; Authors: Dennis Baker, Jesse Benner, Savannah Broadway, Ross Byers, Adam Daigle, Tim Hitchcock, Tracy Hurley, James Jacobs, Matt James, Rob McCreary, Jason Nelson, Tom Phillips, Stephen Radney-MacFarland, Sean K Reynolds, F. Wesley Schneider, Tork Shaw, and Russ Taylor.  
+**[Pathfinder Roleplaying Game Bestiary 4](http://paizo.com/products/btpy8yop)** © 2013, Paizo Publishing, LLC; Authors: Dennis Baker, Jesse Benner, Savannah Broadway, Ross Byers, Adam Daigle, Tim Hitchcock, Tracy Hurley, James Jacobs, Matt James, Rob McCreary, Jason Nelson, Tom Phillips, Stephen Radney-MacFarland, Sean K Reynolds, F. Wesley Schneider, Tork Shaw, and Russ Taylor.
 
 
-**[Pathfinder Roleplaying Game Core Rulebook](http://paizo.com/store/byCompany/p/paizoPublishingLLC/pathfinder/pathfinderRPG/v5748btpy8255)**. © 2009, Paizo Publishing, LLC; Author: Jason Buhlman, based on material by Jonathan Tweet, Monte Cook, and Skip Williams.  
+**[Pathfinder Roleplaying Game Core Rulebook](http://paizo.com/store/byCompany/p/paizoPublishingLLC/pathfinder/pathfinderRPG/v5748btpy8255)**. © 2009, Paizo Publishing, LLC; Author: Jason Buhlman, based on material by Jonathan Tweet, Monte Cook, and Skip Williams.
 
-**[Pathfinder Roleplaying Game Ultimate Combat](http://paizo.com/products/btpy8mcz)**. © 2011, Paizo Publishing, LLC; Authors: Dennis Baker, Jesse Benner, Benjamin Bruck, Jason Buhlman, Brian J. Cortijo, Jim Groves, Tim Hitchcock, Richard A. Hunt, Colin McComb, Jason Nelson, Tom Phillips, Patrick Renie, Sean K Reynolds, and Russ Taylor.  
+**[Pathfinder Roleplaying Game Ultimate Combat](http://paizo.com/products/btpy8mcz)**. © 2011, Paizo Publishing, LLC; Authors: Dennis Baker, Jesse Benner, Benjamin Bruck, Jason Buhlman, Brian J. Cortijo, Jim Groves, Tim Hitchcock, Richard A. Hunt, Colin McComb, Jason Nelson, Tom Phillips, Patrick Renie, Sean K Reynolds, and Russ Taylor.
 
-**[Pathfinder Roleplaying Game Ultimate Magic](http://paizo.com/store/byCompany/p/paizoPublishingLLC/pathfinder/pathfinderRPG/v5748btpy8g7s)**. © 2011, Paizo Publishing. LLC; Authors: Jason Buhlman, Tim Hitchcock, Colin McComb, Rob McCreary, Jason Nelson, Stephen Radney-MacFarland, Sean K Reynolds, Owen K.C. Stephens, and Russ Taylor.  
+**[Pathfinder Roleplaying Game Ultimate Magic](http://paizo.com/store/byCompany/p/paizoPublishingLLC/pathfinder/pathfinderRPG/v5748btpy8g7s)**. © 2011, Paizo Publishing. LLC; Authors: Jason Buhlman, Tim Hitchcock, Colin McComb, Rob McCreary, Jason Nelson, Stephen Radney-MacFarland, Sean K Reynolds, Owen K.C. Stephens, and Russ Taylor.
 
-**[Pathfinder Society Scenario 30: The Devil We Know Part II: Cassomir’s Locker](http://paizo.com/store/byCompany/p/paizoPublishingLLC/pathfinder/pathfinderSocietyScenarios/season1/v5748btpy89kc)**. Copyright 2009, Paizo Publishing, LLC; Author: Joshua J. Frost.  
+**[Pathfinder Society Scenario 30: The Devil We Know Part II: Cassomir’s Locker](http://paizo.com/store/byCompany/p/paizoPublishingLLC/pathfinder/pathfinderSocietyScenarios/season1/v5748btpy89kc)**. Copyright 2009, Paizo Publishing, LLC; Author: Joshua J. Frost.
 
-**[Pathfinder Society Scenario 41: The Devil We Know, Part III: Crypt of Fools](http://paizo.com/store/byCompany/p/paizoPublishingLLC/pathfinder/pathfinderSocietyScenarios/season1/v5748btpy8ari)**. © 2010, Paizo Publishing, LLC; Author: Larry Wilhelm.  
+**[Pathfinder Society Scenario 41: The Devil We Know, Part III: Crypt of Fools](http://paizo.com/store/byCompany/p/paizoPublishingLLC/pathfinder/pathfinderSocietyScenarios/season1/v5748btpy8ari)**. © 2010, Paizo Publishing, LLC; Author: Larry Wilhelm.
 
-**[Pathfinder Society Scenario 47: The Darkest Vengeance](http://paizo.com/store/byCompany/p/paizoPublishingLLC/pathfinder/pathfinderSocietyScenarios/season1/v5748btpy8buc)**. © 2010, Paizo Publishing, LLC; Authors: Tim Hitchcock and Mark Moreland.  
+**[Pathfinder Society Scenario 47: The Darkest Vengeance](http://paizo.com/store/byCompany/p/paizoPublishingLLC/pathfinder/pathfinderSocietyScenarios/season1/v5748btpy8buc)**. © 2010, Paizo Publishing, LLC; Authors: Tim Hitchcock and Mark Moreland.
 
-**[Pathfinder Society Scenario 48: The Devil We Know, Part IV: The Rules of the Swift](http://paizo.com/store/byCompany/p/paizoPublishingLLC/pathfinder/pathfinderSocietyScenarios/season1/v5748btpy8bud)**. © 2010, Paizo Publishing, LLC; Author: Larry Wilhelm.  
+**[Pathfinder Society Scenario 48: The Devil We Know, Part IV: The Rules of the Swift](http://paizo.com/store/byCompany/p/paizoPublishingLLC/pathfinder/pathfinderSocietyScenarios/season1/v5748btpy8bud)**. © 2010, Paizo Publishing, LLC; Author: Larry Wilhelm.
 
-**[Perram’s Goblins](www.thegm.org/downloads/perramGoblin.pdf)** © 2013, Jefferson Jay Thacker  
+**[Perram’s Goblins](www.thegm.org/downloads/perramGoblin.pdf)** © 2013, Jefferson Jay Thacker
 
-**[Tome of Horrors](http://froggodgames.org/tome-horrors)**. Copyright 2002, Necromancer Games, Inc.; Authors: Scott Greene, with Clark Peterson, Erica Balsley, Kevin Baase, Casey Christofferson, Lance Hawvermale, Travis Hawvermale, Patrick Lawinger, and Bill Webb; Based on original content from TSR.  
+**[Tome of Horrors](http://froggodgames.org/tome-horrors)**. Copyright 2002, Necromancer Games, Inc.; Authors: Scott Greene, with Clark Peterson, Erica Balsley, Kevin Baase, Casey Christofferson, Lance Hawvermale, Travis Hawvermale, Patrick Lawinger, and Bill Webb; Based on original content from TSR.
 
-**Mite from the Tome of Horrors**, © 2002, Necromancer Games, Inc.; Author: Scott Greene, based on original material from by Ian Livingstone and Mark Barnes.  
+**Mite from the Tome of Horrors**, © 2002, Necromancer Games, Inc.; Author: Scott Greene, based on original material from by Ian Livingstone and Mark Barnes.
+
+**Advanced Bestiary**, © 2004, Green Ronin Publishing, LLC; Author Matthew Sernett.
