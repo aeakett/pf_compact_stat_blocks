@@ -32,12 +32,12 @@ sed -i 's/\*\*Cast Time\*\*/\*\*Cast\*\* <span class="symbol">\&#8986;<\/span>/'
 sed -i 's/\*\*Target\*\*/<span class="symbol">**\&#8853;**<\/span>/' $SOURCE_TEMP
 sed -i 's/\*\*Duration\*\*/<span class="symbol">**\&#8987;**<\/span>/' $SOURCE_TEMP
 sed -i 's/\*\*Range\*\*/<span class="symbol">\&#128207;<\/span>/' $SOURCE_TEMP
-sed -i 's/~~fire~~/<span class="symbol">\&#128293;<\/span>/' $SOURCE_TEMP
-sed -i 's/~~acid~~/<span class="symbol">\&#128167;<\/span>/' $SOURCE_TEMP
-sed -i 's/~~cold~~/<span class="symbol">\&#10052;<\/span>/' $SOURCE_TEMP
-sed -i 's/~~elec~~/<span class="symbol">\&#9889;<\/span>/' $SOURCE_TEMP
-sed -i 's/~~sonic~~/<span class="symbol">\&#9810;<\/span>/' $SOURCE_TEMP
-echo '<!DOCTYPE html>\n   <head>\n      <meta charset="utf-8">\n      <title>Compact Pathfinder Stat Blocks</title>\n      <style>.symbol{font-family: "Segoe UI Symbol";}h6{display:block;font-size:1em;margin:0em;font-weight:bold;text-decoration:underline;}p{margin-top:0em;}</style>\n   </head>\n   <body>' > $HTM_TEMP
+sed -i 's/~~fire~~/<span class="symbol">\&#128293;<\/span>/g' $SOURCE_TEMP
+sed -i 's/~~acid~~/<span class="symbol">\&#128167;<\/span>/g' $SOURCE_TEMP
+sed -i 's/~~cold~~/<span class="symbol">\&#10052;<\/span>/g' $SOURCE_TEMP
+sed -i 's/~~elec~~/<span class="symbol">\&#9889;<\/span>/g' $SOURCE_TEMP
+sed -i 's/~~sonic~~/<span class="symbol">\&#9810;<\/span>/g' $SOURCE_TEMP
+echo '<!DOCTYPE html>\n   <head>\n      <meta charset="utf-8">\n      <title>Compact Pathfinder Stat Blocks</title>\n      <style>.symbol{font-family: "Segoe UI Symbol";}h2{display:block;font-size:1em;margin:0em;font-weight:bold;text-decoration:underline;}p{margin-top:0em;}</style>\n   </head>\n   <body>' > $HTM_TEMP
 $MARKDOWN_BIN $SOURCE_TEMP >> $HTM_TEMP
 echo '   </body>\n</html>' >> $HTM_TEMP
 #./htm2rtf.pl
