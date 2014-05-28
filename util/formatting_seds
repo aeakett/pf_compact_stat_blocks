@@ -9,19 +9,19 @@ sed -i 's/AC \([0-9][0-9]*\), touch \([0-9][0-9]*\), flat-footed \([0-9][0-9]*\)
 sed -i 's/hp \([0-9][0-9]*\) ([^(]*)/**hp**\1/' $1
 
 #These are totally untested, and something in there will amlost certainly break
-sed -i 's/Lunge/lunge (+5\' rch for 1r, -2 ac)/' $1
-sed -i 's/Greater Bull Rush/gtr bull rsh (+4 cmb, +2 cmd, no aoo, tgts mv provokes)/' $1
-sed -i 's/improved uncanny dodge/imp uncanny dodge (can\'t be caught ff or flanked)/' $1
+sed -i "s/Lunge/lunge (+5' rch for 1r, -2 ac)/" $1
+sed -i "s/Greater Bull Rush/gtr bull rsh (+4 cmb, +2 cmd, no aoo, tgt's mv provokes)/" $1
+sed -i "s/improved uncanny dodge/imp uncanny dodge (can't be caught ff or flanked)/" $1
 sed -i 's/Improved Grapple/imp grp (no aoo)/' $1
 sed -i 's/Improved Unarmed Strike/imp unrmd stk (no aoo)/' $1
-sed -i 's/Point-Blank Shot/pnt-blnk sht (+1 atk & dmg ≤30\')/' $1
-sed -i 's/Mounted Combat/mntd cmbt (1/r if mnt hit, ride chk neg (dc=atk roll))/' $1
+sed -i "s/Point-Blank Shot/pnt-blnk sht (+1 atk & dmg ≤30')/" $1
+sed -i 's/Mounted Combat/mntd cmbt (1\/r if mnt hit, ride chk neg (dc=atk roll))/' $1
 sed -i 's/Ride-[Bb]y Attack/rd-by atk (cont chrg line aft atk)/' $1
 sed -i 's/evasion/evasion (ref svs for ½ do 0 dmg)/' $1
 sed -i 's/sneak attack \+\(.\)d6/snk atk (+\1)/' $1
 sed -i 's/Spirited Charge/sprtd chrg (x2 dmg on chrg (x3 if lnc))/' $1
 sed -i 's/Combat Reflexes/cmbt ref(+)/' $1
-sed -i 's/Power Attack/pwr atk (-/+)/' $1
+sed -i 's/Power Attack/pwr atk (-\/+)/' $1
 sed -i 's/Toughness//' $1
 sed -i 's/whip/whp/' $1
 sed -i 's/dagger/dgr/' $1
@@ -35,7 +35,7 @@ sed -i 's/quarterstaff/¼staff/' $1
 sed -i 's/light hammer/lt hmr/' $1
 sed -i 's/warhammer/wrhmr/' $1
 sed -i 's/light pick/lt pk/' $1
-sed -i 's/heavy/pick/hvy pk/' $1
+sed -i 's/heavy pick/hvy pk/' $1
 sed -i 's/bastard sword/bstd swd/' $1
 sed -i 's/greatsword/gtswd/' $1
 sed -i 's/longsword/lngswd/' $1
