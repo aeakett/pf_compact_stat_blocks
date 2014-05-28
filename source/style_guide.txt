@@ -1,0 +1,151 @@
+
+<u>John Smith</u> cr7; xp3,200; hm[1] ftr4(dragoon)/rg2[2]
+**lrg**;
+**init**+6;
+all-arnd vis, blindsense30, drkvis60, llvis, trmrsns30, blndst60, scent, detect mag, **perc**+16;
+**ac**20 (t11, ff18);
+**hp** 85;
+**regen**5 (~~acid~~ or ~~fire~~);
+**dr**10/mag[3];
+**f**+9/**r**+10/**w**+10(+12v fear);
+**imm** ~~fire~~, mind-affect, disease, psn;
+**resist** 20~~cold~~/~~elec~~, 10~~sonic~~;
+**sr**18;
+**sp**40, **sw**40, **cl**20, **fl**60 (gd);     (enum flight man)
+**bite** +14/1d8+6, **2 claws** +14/1d6+6 or **mw c.longbow** +8/1d8+4/x3 or **mw sh swd** +13/+8/1d6+4/19;
+**rch**10;
+**cmb/d**+16(+18 grp)/28(32v trp); [4]
+*Best 27*
+
+**spells** (cl9, conc+8): aw-blink, invisibility sphere, levitate, misdirection; 1/d-charm monster (dc18), crushing despair (dc18), dimension door, mass bull's strength, mass enlarge  
+
+**special**: combat ref(+2); change shape (goblin or wolf, as polymorph); fav enemy (elves+2); point-blank shot; track+1; wld emp +0; pwr atk (-3/+6); cleave (after full atk hits, make 2nd atk @full BAB @another foe, -2ac until nxt turn); spr atk (mv>=10, atk, & can mv again, no aoo frm tgt); constrict (1d3+6 nonlethal), poison (2 doses, f:dc14, freq 1/r for 2r, 1 con & unconcious for 1d3h, cure 1 save); poison (f:dc20, freq 1/r for 6r, 1d3 dex & dazed, cure 1 save); chnl resis +4; climb+x; fly+x; stealth+x; snk atk (+1d6); poison (injury, f:dc14, freq 1/r for 4r; 1d2 str dmg; cure 1 save); cmbt ref (+5); uncanny dodge (can't be caught flat-footed); chnl resist+2; disease (f:dc17; onset 1d; freq 1/d; 1d3 con & 1d3 dex, rise as ghoul if dead; cure 2 consec. sav); paralysis (1d4+1r d:dc13, elves immune); imp uncanny ddg (keep dex + to ac when ff, can't be flanked unless atkr lvl>=9); pwr atk (-2/+4); pt blnk sht (+1 atk & dmg within 30'); precise shot (no -4 for thrw into melee); fav enemy (animals+2); mounted combat; evasion (if succeed ref sv for ½ dmg, take none instead); brd perf 5r/d (countersong, distraction, facinate, insp courage+1), brd know+1; wld shp 1/d; snk atk +1d6; combat casting; nat bnd (animal companion); nat sns; wld emp+4; trackless stp; trapfinding +1; woodland stride; rend (2 claws, 1d6+10); lunge (+5' rch for 1r, -2 ac); pwr atk (-3/+6); cmd ref (+1); gtr bull rsh (+4 cmb, +2 cmd, doesn't provoke, victim's mv provokes); bld-ft; snk atk (+3d6); evasion (ref saves for ½ do no dmg instead); imp uncanny dodge (can't be caught flat-footed, or flanked), trpfnd+2; imp grap (no aoo); imp unrmd stk (no aoo); pwr atk (-2/+4); pnt-blnk sht (+1 atk & dmg on rngd atks ≤30'); chnl neg engy 6/d (dc15, 2d6); chnl neg engy 1/d (dc16, 1d6); flyby atk (take std act during fly move); incorporeal; channel resistance+2; undead traits; create spawn (humanoid killed by str dmg becomes a shadow in 1d4r); grb (start grp for free when hit w/bite); pnce (make rake atks part of chrg); rake (2 claws +12/1d6+9+1d6~~elec~~); mntd cmbt (1/r if mnt hit, ride chk negates (dc=atk roll)); rd-by atk (cont chrg line aft atk); ride +12; constrict (1d6+1); poison (f:dc15, frq 2r, 1d4 con +nausea, cure 1sav); rend (2 claws/1d6+7); snk atk (+1d6); stun fist (2/d dc14); dflt arw; evasion; sprtd chrg (x2 dmg on chrg (x3 if lance)); 
+
+**gear**: +1 elf bane arr x4, pot cure mod wnds, std lth
+
+[1](hm,elf,dwf,gnm,½ng,½orc,½elf)
+[2](adpt,ars,com,exp,war,brb,brd,clr,drd,ft,mnk,pal,rgr,rg,src,wiz,alch,cav,inq,orcl,sum,wch,mag,gun,nj,sam,arcn,bdrgr,brlr,hntr,inv,shmn,skld,slyr,swsh,wrpst,arcarch,arctrk,assn,drgdcpl,dlst,eldkt,lrmst,mysthg,pfchrn,shdncr,bttlhrld,hlyvnd,hznwkr,mstchym,mstspy,ntrwdn,rgppht,stltdef)
+[3]admnt,mag,cldFe,slvr
+[4]**cmb/d**-1/11(no trp);
+==================================================================================================================================
+
+**bite** +7/1d8+1/19(+bleed(1d6));
+**bite** +13/2d6+7+poison;
+**bite** +6/1d6+3(+trip);
+**bite** +5/1d6+3+disease+paral
+**flame blade** +3/1d8+2(fire)
+**acid pellet** (rng tch 10') +5/2d6~~acid~~+spores; (spores is special of creature)
+**bite** +13/2d6+9+1d6~~elec~~+grb;
+**bite**(evil) +7/2d6+4
+
+**spells** (cl8, conc+9): aw---confusion (dc17, 1 tgt only), daze monster (dc 15, no HD lmt), inf srs wnds (dc16)  
+3/d---cur mod wnds, glb invuln  
+**spells** (cl3, conc+2): aw-darkness, detect magic  
+**spells** (cl3, conc+6): aw-darkness, ghost sound(dc13); 1/d-daze(dc13), sound burst(dc15)  
+**spells** (cl3, conc+6): aw-darkness, ghost sound(dc13); 1/d-daze(dc13), sound burst(dc15)  
+**spells** (cl3, conc+8): 2nd—hold person (dc17), inflict mod wnds (dc17); 1st—bane (dc16), cause fear (dc16), inflict lt wnds x2 (dc16); 0(aw)—bleed (dc15), detect magic, guidance, read magic  
+**spells** (cl5): 2nd (3/d)---cat's grace, blur, defensive shock; 1st (5/d)---shield, jump, abjuring step, linebreaker, targeted bomb admixture  
+**spells** (cl3, conc+6): aw-darkness, ghost sound(dc13); 1/d-daze(dc13), sound burst(dc15)  
+**spells** (cl7): 3/d—fog cloud, gaseous form, sound burst(dc19).  
+**spells** (cl12, conc+18): const-blur; @will-detect thoughts (dc18), ghst snd (dc16), misdirection; 3/d—gtr invis, mjr img (dc19), modify memory (dc20), nightmare (dc21), phantasmal killer (dc20), shdw walk (dc21), suggestion (dc18); 1/d—agent of fate, false vision, mind fog (dc21), mislead, project img (dc22).
+(cl1, conc+7): 1st—bane (dc17), disgs slf, doom (dc17), obscuring mist; 0 (@will)—create water, spark (dc16) x2  
+**spells** (cl6, conc+9): 1/d---daylight; (cl4, conc+7): 2nd---bull's strength, cat's grace, cure mod wnds, shatter (dc15); 1st---divine favor, doom (dc14), obscuring mist, sanctuary (dc14), shield of faith; 0(aw)---bleed (dc13), detect magic, mending, stabilize  
+**spells** (cl1,): aw-prestidigitation; 1/d-doom (dc10)  
+**spells** (cl4, conc+7): 2nd—invisibility, mirror image, shatter (dc16); 1st—burning hands (dc15), grease (dc14), mage armor, ray of enfeeblement; 0(aw)—acid splash, detect magic, prestidigitation, ray of frost  
+**spells** (cl8): aw---confusion (dc17, single tgt), daze monster (dc15, no HD lmt), inf srs wnds (dc16), invis, reduce person (slf only); 3/d---cure mod wnds, globe of invulnerability;  
+**spells** (cl3, conc+12): aw---darkness, ghost sound(dc16); 1/d-daze(dc16), sound burst(dc18)  
+(cl7, conc+12): 8/d---acidic ray (30' 1d6+3 ~~acid~~); 3rd(5/d)---hold person (dc19), lightning bolt (dc19, 7d6 ~~elec~~), tongues; 2nd(8/d)---alter self, bull's strength, invisibility, see invisibility; 1st(8/d)---charm person (dc17), enlarge person, hypnotism (dc17), mage armor, ray of enfeeblement, shield; 0(aw)---acid splash, bleed (dc16), dancing lights, detect magic, detect poison, mage hand, message  
+**spells** (cl4, conc+7): 2nd---animal messenger, flame blade, lssr restoration (already cast); 1st---charm animal (dc14), cure lght wnds, entangle (dc14), speak w/animals; 0(aw)---flare (dc13), guidance, mending, stabilize  
+**spells** (cl1, conc+2): 1st(2/d)---cure light wounds, hideous laughter (dc12); 0(aw)---daze (dc11), ghost sound (dc11), mage hand, message  
+
+Gear
+====
+Weapons
+-------
+whp
+dgr
+lt mace
+hvy mace
+shspr
+lngspr
+spr
+jav
+¼staff
+lt hmr
+wrhmr
+lt pk
+hvy pk
+bstd swd
+gtswd
+lngswd
+sh swd
+scim
+rpr
+falch
+gtaxe
+hndaxe
+btlaxe
+thr axe
+dwf wraxe
+clb
+gtclb
+hvy flail
+flail
+slng
+mrnstr
+blwgn
+nunch
+glv
+halb
+lnc
+elf crv bld
+
+Bows
+----
+c.shbow(+n)
+c.lngbow(+n)
+shbow
+lngbow
+lt.xbow
+hv.xbow
+hnd.xbow
+rpt.lt.xbow
+rpt.hv.xbow
+arr xn
+
+Armour
+------
+pad arm
+lthr
+std lthr
+chn sht
+hide
+scl.ml
+chn.ml
+brstplt
+bnd.ml
+½plt
+fl.plt
+
+Shields
+-------
+buckler
+lt stl shld
+lt wd shld
+hvy stl shld
+hvy wd shld
+twr shld
+
+mw = masterwork
+
+clk xxx
+rng xxx
+pot xxx
+scr xxx
+scl xxx (cln) (arc/div)
+wnd xxx (nnchg)
+4pp (nnn{cp|sp|gp|pp})
+valuable_thing (nngp)
+alch fr x3
+evbrn trch
+spellbook (all prep, identify, sleep...)
