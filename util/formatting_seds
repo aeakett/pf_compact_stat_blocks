@@ -7,3 +7,90 @@ sed -i 's/Perception \([+-][0-9][0-9]*\)/**perc**\1/' $1
 sed -i 's/Fort \([+-][0-9][0-9]*\), Ref \([+-][0-9][0-9]*\), Will \([+-][0-9][0-9]*\)/**f**\1\/**r**\2\/**w**\3/' $1
 sed -i 's/AC \([0-9][0-9]*\), touch \([0-9][0-9]*\), flat-footed \([0-9][0-9]*\) ([^(]*)/**ac**\1 (t\2, ff\3)/' $1
 sed -i 's/hp \([0-9][0-9]*\) ([^(]*)/**hp**\1/' $1
+
+#These are totally untested, and something in there will amlost certainly break
+sed -i 's/Lunge/lunge (+5\' rch for 1r, -2 ac)/' $1
+sed -i 's/Greater Bull Rush/gtr bull rsh (+4 cmb, +2 cmd, no aoo, tgts mv provokes)/' $1
+sed -i 's/improved uncanny dodge/imp uncanny dodge (can\'t be caught ff or flanked)/' $1
+sed -i 's/Improved Grapple/imp grp (no aoo)/' $1
+sed -i 's/Improved Unarmed Strike/imp unrmd stk (no aoo)/' $1
+sed -i 's/Point-Blank Shot/pnt-blnk sht (+1 atk & dmg ≤30\')/' $1
+sed -i 's/Mounted Combat/mntd cmbt (1/r if mnt hit, ride chk neg (dc=atk roll))/' $1
+sed -i 's/Ride-[Bb]y Attack/rd-by atk (cont chrg line aft atk)/' $1
+sed -i 's/evasion/evasion (ref svs for ½ do 0 dmg)/' $1
+sed -i 's/sneak attack \+\(.\)d6/snk atk (+\1)/' $1
+sed -i 's/Spirited Charge/sprtd chrg (x2 dmg on chrg (x3 if lnc))/' $1
+sed -i 's/Combat Reflexes/cmbt ref(+)/' $1
+sed -i 's/Power Attack/pwr atk (-/+)/' $1
+sed -i 's/Toughness//' $1
+sed -i 's/whip/whp/' $1
+sed -i 's/dagger/dgr/' $1
+sed -i 's/light mace/lt mace/' $1
+sed -i 's/heavy mace/hvy mace/' $1
+sed -i 's/shortspear/shspr/' $1
+sed -i 's/longspear/lngspr/' $1
+sed -i 's/spear/spr/' $1
+sed -i 's/javelin/jav/' $1
+sed -i 's/quarterstaff/¼staff/' $1
+sed -i 's/light hammer/lt hmr/' $1
+sed -i 's/warhammer/wrhmr/' $1
+sed -i 's/light pick/lt pk/' $1
+sed -i 's/heavy/pick/hvy pk/' $1
+sed -i 's/bastard sword/bstd swd/' $1
+sed -i 's/greatsword/gtswd/' $1
+sed -i 's/longsword/lngswd/' $1
+sed -i 's/short sword/sh swd/' $1
+sed -i 's/scimitar/scim/' $1
+sed -i 's/rapier/rpr/' $1
+sed -i 's/falchion/falch/' $1
+sed -i 's/greataxe/gtaxe/' $1
+sed -i 's/handaxe/hndaxe/' $1
+sed -i 's/battleaxe/btlaxe/' $1
+sed -i 's/throwing axe/thr axe/' $1
+sed -i 's/dwarven waraxe/dwf wraxe/' $1
+sed -i 's/greatclub/gtclb/' $1
+sed -i 's/club/clb/' $1
+sed -i 's/heavy flail/hvy flail/' $1
+sed -i 's/sling/slng/' $1
+sed -i 's/morningstar/mrnstr/' $1
+sed -i 's/blowgun/blwgn/' $1
+sed -i 's/nunchaku/nunch/' $1
+sed -i 's/glaive/glv/' $1
+sed -i 's/halberd/halb/' $1
+sed -i 's/lance/lnc/' $1
+sed -i 's/elven curve blade/elf crv bld/' $1
+sed -i 's/composite shortbow/c.shbow(+)/' $1
+sed -i 's/composite longbow/c.lngbow(+)/' $1
+sed -i 's/shortbow/shbow/' $1
+sed -i 's/longbow/lngbow/' $1
+sed -i 's/repeating light crossbow/rpt.lt.xbow/' $1
+sed -i 's/repeating heavy crossbow/rpt.hv.xbow/' $1
+sed -i 's/light crossbow/lt.xbow/' $1
+sed -i 's/heavy crossbow/hv.xbow/' $1
+sed -i 's/hand crossbow/hnd.xbow/' $1
+sed -i 's/padded armor/pad arm/' $1
+sed -i 's/leather armor/lthr/' $1
+sed -i 's/studded leather/std lthr/' $1
+sed -i 's/chain shirt/chn sht/' $1
+sed -i 's/hide armor/hide/' $1
+sed -i 's/scale mail/scl.ml/' $1
+sed -i 's/chainmail/chn.ml/' $1
+sed -i 's/breastplate/brstplt/' $1
+sed -i 's/banded mail/bnd.ml/' $1
+sed -i 's/half-plate/½plt/' $1
+sed -i 's/full plate/fl.plt/' $1
+sed -i 's/light steel shield/lt stl shld/' $1
+sed -i 's/light wooden shield/lt wd shld/' $1
+sed -i 's/heavy steel shield/hvy stl shld/' $1
+sed -i 's/heavy wooden shield/hvy wd shld/' $1
+sed -i 's/tower shield/twr shld/' $1
+sed -i 's/masterwork/mw/' $1
+sed -i 's/cloak/clk/' $1
+sed -i 's/ring/ring/' $1
+sed -i 's/potion/pot/' $1
+sed -i 's/scroll/scr/' $1
+sed -i 's/wand/wnd/' $1
+sed -i 's/alchemist.s fire/alch fr/' $1
+sed -i 's/everburning torch/evbrn trch/' $1
+
+
