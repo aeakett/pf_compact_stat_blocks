@@ -9,6 +9,42 @@ sed -i 's/AC \([0-9][0-9]*\), touch \([0-9][0-9]*\), flat-footed \([0-9][0-9]*\)
 sed -i 's/hp \([0-9][0-9]*\) ([^(]*)/**hp**\1/' $1
 
 #These are totally untested, and something in there will amlost certainly break
+sed -i 's/Improved Lightning Reflexes//' $1
+sed -i 's/Lightning Reflexes//' $1
+sed -i 's/Deceitful//' $1
+sed -i 's/Skill Focus ([^)][^)]*)//' $1
+sed -i 's/Dodge//' $1
+sed -i 's/Improved Initiative//' $1
+sed -i 's/Multiattack//' $1
+sed -i 's/Improved Great Fortitude//' $1
+sed -i 's/Great Fortitude//' $1
+sed -i 's/Improved Iron Will//' $1
+sed -i 's/Iron Will//' $1
+sed -i 's/Acrobatic//' $1
+sed -i 's/Agile Maneuvers//' $1
+sed -i 's/Alertness//' $1
+sed -i 's/Athletic//' $1
+sed -i 's/Deceitful//' $1
+sed -i 's/Deft Hands//' $1
+sed -i 's/Fleet//' $1
+sed -i 's/Run//' $1
+sed -i 's/Stealthy//' $1
+sed -i 's/Improved Two-Weapon Fighting//' $1
+sed -i 's/Greater Two-Weapon Fighting//' $1
+sed -i 's/Two-Weapon Fighting//' $1
+sed -i 's/Double Slice//' $1
+sed -i 's/Greater Weapon Focus ([^)][^)]*)//' $1
+sed -i 's/Weapon Focus ([^)][^)]*)//' $1
+sed -i 's/Greater Weapon Specialization ([^)][^)]*)//' $1
+sed -i 's/Weapon Specialization ([^)][^)]*)//' $1
+sed -i 's/Brew Potion//' $1
+sed -i 's/Craft Magic Arms and Armor//' $1
+sed -i 's/Craft Rod//' $1
+sed -i 's/Craft Staff//' $1
+sed -i 's/Craft Wand//' $1
+sed -i 's/Craft Wondrous Item//' $1
+sed -i 's/Forge Ring//' $1
+sed -i 's/Scribe Scroll//' $1
 sed -i "s/Lunge/lunge (+5' rch for 1r, -2 ac)/" $1
 sed -i "s/Greater Bull Rush/gtr bull rsh (+4 cmb, +2 cmd, no aoo, tgt's mv provokes)/" $1
 sed -i "s/improved uncanny dodge/imp uncanny dodge (can't be caught ff or flanked)/" $1
