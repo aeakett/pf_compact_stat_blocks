@@ -111,6 +111,7 @@ body.bp h6 {
 /* line 59, ../../../../var/lib/gems/1.8/gems/compass-0.12.2/frameworks/blueprint/stylesheets/blueprint/_typography.scss */
 body.bp p {
   margin: 0 0 1.5em;
+  padding: 0 1em;
 }
 /* line 60, ../../../../var/lib/gems/1.8/gems/compass-0.12.2/frameworks/blueprint/stylesheets/blueprint/_typography.scss */
 body.bp p .left {
