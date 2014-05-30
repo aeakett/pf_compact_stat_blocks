@@ -47,7 +47,7 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 
 Open Game License v 1.0 © 2000, Wizards of the Coast, Inc.;  
 
-**Pathfinder Compact Stat Block Collection**. © 2013, Andrew Eakett.  
+**Pathfinder Compact Stat Block Collection**. © 2014, Andrew Eakett.  
 
 **[Pathfinder Roleplaying Game Reference Document](http://paizo.com/pathfinderRPG/prd/)**. © 2011, Paizo Publishing, LLC; Author: Paizo Publishing, LLC.  
 
