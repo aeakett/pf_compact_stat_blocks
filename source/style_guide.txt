@@ -12,7 +12,7 @@ all-arnd vis, blindsense30, drkvis60, llvis, trmrsns30, blndst60, scent, detect 
 **resist** 20~~cold~~/~~elec~~, 10~~sonic~~;
 **sr**18;
 **sp**40, **sw**40, **cl**20, **fl**60 (gd);     (enum flight man)
-**bite** +14/1d8+6, **2 claws** +14/1d6+6 or **mw c.longbow** +8/1d8+4/x3 or **mw sh swd** +13/+8/1d6+4/19;
+**bite** +14/1d8+6, **2 claws** +14/1d6+6 or **mw c.longbow** +8/1d8+4/x3 or **mw sh swd** +13|+8/1d6+4/19;
 **rch**10;
 **cmb/d**+16(+18 grp)/28(32v trp); [4]
 *Best 27*
