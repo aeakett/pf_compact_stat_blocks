@@ -24,7 +24,7 @@ all-arnd vis, blindsense30, drkvis60, llvis, trmrsns30, blndst60, scent, detect 
 **gear**: +1 elf bane arr x4, pot cure mod wnds, std lth
 
 [1](hm,elf,dwf,gnm,½ng,½orc,½elf)
-[2](adpt,ars,com,exp,war,brb,brd,clr,drd,ft,mnk,pal,rgr,rg,src,wiz,alch,cav,inq,orcl,sum,wch,mag,gun,nj,sam,arcn,bdrgr,brlr,hntr,inv,shmn,skld,slyr,swsh,wrpst,arcarch,arctrk,assn,drgdcpl,dlst,eldkt,lrmst,mysthg,pfchrn,shdncr,bttlhrld,hlyvnd,hznwkr,mstchym,mstspy,ntrwdn,rgppht,stltdef)
+[2](adpt,ars,com,exp,war,bbn,brd,clr,drd,ft,mnk,pal,rgr,rg,src,wiz,alch,cav,inq,orcl,sum,wch,mag,gun,nj,sam,arcn,bdrgr,brlr,hntr,inv,shmn,skld,slyr,swsh,wrpst,arcarch,arctrk,assn,drgdcpl,dlst,eldkt,lrmst,mysthg,pfchrn,shdncr,bttlhrld,hlyvnd,hznwkr,mstchym,mstspy,ntrwdn,rgppht,stltdef)
 [3]admnt,mag,cldFe,slvr
 [4]**cmb/d**-1/11(no trp);
 ==================================================================================================================================
