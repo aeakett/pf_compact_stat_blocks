@@ -54,7 +54,7 @@ sed -i "s/Point-Blank Shot/pnt-blnk sht (+1 atk & dmg ≤30')/" $1
 sed -i 's/Mounted Combat/mntd cmbt (1\/r if mnt hit, ride chk neg (dc=atk roll))/' $1
 sed -i 's/Ride-[Bb]y Attack/rd-by atk (cont chrg line aft atk)/' $1
 sed -i 's/evasion/evasion (ref svs for ½ do 0 dmg)/' $1
-sed -i 's/sneak attack \+\(.\)d6/snk atk (+\1)/' $1
+sed -i 's/sneak attack +\([0-9][0-9]*d[0-9]\)/snk atk (+\1)/' $1
 sed -i 's/Spirited Charge/sprtd chrg (x2 dmg on chrg (x3 if lnc))/' $1
 sed -i 's/Combat Reflexes/cmbt ref(+)/' $1
 sed -i 's/Power Attack/pwr atk (-\/+)/' $1
@@ -120,7 +120,7 @@ sed -i 's/light wooden shield/lt wd shld/' $1
 sed -i 's/heavy steel shield/hvy stl shld/' $1
 sed -i 's/heavy wooden shield/hvy wd shld/' $1
 sed -i 's/tower shield/twr shld/' $1
-sed -i 's/masterwork/mw/' $1
+sed -i 's/masterwork/mw/g' $1
 sed -i 's/cloak/clk/' $1
 sed -i 's/ring/ring/' $1
 sed -i 's/potion/pot/' $1
@@ -128,5 +128,94 @@ sed -i 's/scroll/scr/' $1
 sed -i 's/wand/wnd/' $1
 sed -i 's/alchemist.s fire/alch fr/' $1
 sed -i 's/everburning torch/evbrn trch/' $1
-
-
+sed -i 's/DEFENSE//' $1
+sed -i 's/OFFENSE//' $1
+sed -i 's/STATISTICS//' $1
+sed -i 's/Str [^,]*, Dex [^,]*, Con [^,]*, Int [^,]*, Wis [^,]*, Cha [^,]*//' $1
+sed -i 's/XP \([0-9,]*\)/xp\1; /' $1
+sed -i 's/CR \([0-9\/]*\)/cr\1; /' $1
+sed -i 's/CMB \([+-][0-9][0-9]*\); CMD \([0-9][0-9]*\)/**cmb\/d**\1\/\2/' $1
+sed -i 's/DC \([0-9][0-9]*\)/dc\1/g' $1
+sed -i 's/Acrobatics +[0-9][0-9]*,*//' $1
+sed -i 's/Appraise +[0-9][0-9]*,*//' $1
+sed -i 's/Bluff +[0-9][0-9]*,*//' $1
+sed -i 's/Craft ([^)]*) +[0-9][0-9]*,*//g' $1
+sed -i 's/Diplomacy +[0-9][0-9]*,*//' $1
+sed -i 's/Disable Device +[0-9][0-9]*,*//' $1
+sed -i 's/Disguise +[0-9][0-9]*,*//' $1
+sed -i 's/Escape Artist +[0-9][0-9]*,*//' $1
+sed -i 's/Handle Animal +[0-9][0-9]*,*//' $1
+sed -i 's/Heal +[0-9][0-9]*,*//' $1
+sed -i 's/Intimidate +[0-9][0-9]*,*//' $1
+sed -i 's/Knowledge ([^)]*) +[0-9][0-9]*,*//g' $1
+sed -i 's/Linguistics +[0-9][0-9]*,*//' $1
+sed -i 's/Perform ([^)]*) +[0-9][0-9]*,*//g' $1
+sed -i 's/Profession ([^)]*) +[0-9][0-9]*,*//g' $1
+sed -i 's/Sleight of Hand +[0-9][0-9]*,*//' $1
+sed -i 's/Spellcraft +[0-9][0-9]*,*//' $1
+sed -i 's/Survival +[0-9][0-9]*,*//' $1
+sed -i 's/Swim +[0-9][0-9]*,*//' $1
+sed -i 's/Use Magic Device +[0-9][0-9]*,*//' $1
+sed -i 's/[Hh]uman/hm/' $1
+sed -i 's/[Dd]warf/dwf/' $1
+sed -i 's/[Gg]nome/gnm/' $1
+sed -i 's/[Hh]alfling/½ng/' $1
+sed -i 's/[Hh]alf-orc/½orc/' $1
+sed -i 's/[Hh]alf-elf/½elf/' $1
+sed -i 's/[Aa]dept/adpt/' $1
+sed -i 's/[Aa]ristocrat/ars/' $1
+sed -i 's/[Cc]ommoner/com/' $1
+sed -i 's/[Ee]xpert/exp/' $1
+sed -i 's/[Ww]arrior/war/' $1
+sed -i 's/[Bb]arbarian/bbn/' $1
+sed -i 's/[Bb]ard/brd/' $1
+sed -i 's/[Cc]leric/clr/' $1
+sed -i 's/[Dd]ruid/drd/' $1
+sed -i 's/[Ff]ighter/ft/' $1
+sed -i 's/[Mm]onk/mnk/' $1
+sed -i 's/[Pp]aladin/pal/' $1
+sed -i 's/[Rr]anger/rgr/' $1
+sed -i 's/[Rr]ogue/rg/' $1
+sed -i 's/[Ss]orcerer/src/' $1
+sed -i 's/[Ww]izard/wiz/' $1
+sed -i 's/[Aa]lchemist/alch/' $1
+sed -i 's/[Cc]avelier/cav/' $1
+sed -i 's/[Ii]nquisitor/inq/' $1
+sed -i 's/[Oo]racle/orcl/' $1
+sed -i 's/[Ss]ummoner/sum/' $1
+sed -i 's/[Ww]itch/wch/' $1
+sed -i 's/[Mm]agus/mag/' $1
+sed -i 's/[Gg]unslinger/gun/' $1
+sed -i 's/[Nn]inja/nj/' $1
+sed -i 's/[Ss]amurai/sam/' $1
+sed -i 's/[Aa]rcanist/arcn/' $1
+sed -i 's/[Bb]loodrager/bdrgr/' $1
+sed -i 's/[Bb]rawler/brlr/' $1
+sed -i 's/[Hh]unter/hntr/' $1
+sed -i 's/[Ii]nvestigator/inv/' $1
+sed -i 's/[Ss]haman/shmn/' $1
+sed -i 's/[Ss]kald/skld/' $1
+sed -i 's/[Ss]layer/slyr/' $1
+sed -i 's/[Ss]washbuckler/swsh/' $1
+sed -i 's/[Ww]arpriest/wrpst/' $1
+sed -i 's/[Aa]rcane [Aa]rcher/arcarch/' $1
+sed -i 's/[Aa]rcane [Tt]rickster/arctrk/' $1
+sed -i 's/[Aa]ssassin/assn/' $1
+sed -i 's/[Dd]ragon [Dd]isciple/drgdcpl/' $1
+sed -i 's/[Dd]uelist/dlst/' $1
+sed -i 's/[Ee]ldritch [Kk]night/eldkt/' $1
+sed -i 's/[Ll]oremaster/lrmst/' $1
+sed -i 's/[Mm]ystic [Tt]heurge/mysthg/' $1
+sed -i 's/[Pp]athfinder [Cc]hronicler/pfchrn/' $1
+sed -i 's/[Ss]hadowdancer/shdncr/' $1
+sed -i 's/[Bb]attle [Hh]erald/bttlhrld/' $1
+sed -i 's/[Hh]oly [Vv]indicator/hlyvnd/' $1
+sed -i 's/[Hh]orizon [Ww]alker/hznwkr/' $1
+sed -i 's/[Mm]aster [Cc]hymist/mstchym/' $1
+sed -i 's/[Mm]aster [Ss]py/mstspy/' $1
+sed -i 's/[Nn]ature [Ww]arden/ntrwdn/' $1
+sed -i 's/[Rr]age [Pp]rophet/rgppht/' $1
+sed -i 's/[Ss]talwart [Dd]efender/stltdef/' $1
+sed -i 's/cold iron/cldFe/g' $1
+sed -i 's/adamantine/admnt/g' $1
+sed -i 's/alchemical silver/slvr/g' $1
