@@ -3,8 +3,8 @@
 SOURCE_TEMP=stat_block.md
 HTM_FILE=stat_blocks.htm
 HTM_TEMP=stat_blocks.htm
-HTM_TARGET=$DIST_DIR$HTM_FILE
-MARKDOWN_BIN=~/bin/multimarkdown.exe
+HTM_TARGET=$2
+MARKDOWN_BIN=~/bin/multimarkdown
 
 CLOCK=$(python -c 'print u"\u0231a".encode("utf8")')
 TARGET=$(python -c 'print u"\u02295".encode("utf8")')
@@ -40,7 +40,10 @@ sed -i 's/~~sonic~~/<span class="symbol">\&#9810;<\/span>/g' $SOURCE_TEMP
 sed -i 's/\*\*ac\*\*/<span class="symbol">\&#9960;<\/span>/g' $SOURCE_TEMP
 sed -i 's/\*\*hp\*\*/<span class="symbol">\&#9829;<\/span>/g' $SOURCE_TEMP
 sed -i 's/->/\&rarr;/g' $SOURCE_TEMP
-echo '<!DOCTYPE html><head><meta charset="utf-8"><title>Compact Pathfinder Stat Blocks</title><style>body{font-size:9pt;}.symbol{font-family: "Segoe UI Symbol",Symbola;}h2{display:block;font-size:1em;margin:0em;font-weight:bold;text-decoration:underline;}p{margin-top:0em;}blockquote(margin-top:0em;margin-bottom:0em;}</style></head><body>' > $HTM_TEMP
+#echo '<!DOCTYPE html><head><meta charset="utf-8"><title>Compact Pathfinder Stat Blocks</title><style>body{font-size:9pt;}.symbol{font-family: "Segoe UI Symbol",Symbola;}h2{display:block;font-size:1em;margin:0em;font-weight:bold;text-decoration:underline;}p{margin-top:0em;}blockquote(margin-top:0em;margin-bottom:0em;}</style></head><body>' > $HTM_TEMP
+echo -e '---\nlayout: default\n---' > $HTM_TEMP
 $MARKDOWN_BIN $SOURCE_TEMP >> $HTM_TEMP
-echo '</body></html>' >> $HTM_TEMP
+#echo '</body></html>' >> $HTM_TEMP
+cp $HTM_TEMP $2
+rm $HTM_TEMP $SOURCE_TEMP
 #./htm2rtf.pl

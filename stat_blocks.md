@@ -1,1 +1,0 @@
-My compact Pathfinder stat blocks used to live here, but they quickly outgrew what I could do in a vanilla Markdown document. these days, you should check out http://aeakett.github.io/pf_compact_stat_blocks/

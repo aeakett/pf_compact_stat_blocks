@@ -1,0 +1,7 @@
+/* Humans who did this */
+Epidiah Ravachol (he wrote the game, so his name comes first)
+Andrew Eakett (he came along and formatted it to put on the web)
+
+/* Technical Stuff */
+Jekyll
+Foundation 5
