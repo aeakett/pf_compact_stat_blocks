@@ -1,9 +1,0 @@
-# Site settings
-title: Pathfinder Compact Stat Blocks
-description: tiny stat blocks for your pathfinder game
-baseurl: "/firstdraftsandscrapsofpaper/pf_compact_stat_blocks" # the subpath of your site, e.g. /blog/
-url: "http://eakett.ca" # the base hostname & protocol for your site
-destination: dist
-sass:
-  style: compressed
-exclude: [README.md, build, source, symbola, util]

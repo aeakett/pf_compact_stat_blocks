@@ -41,7 +41,7 @@ sed -i 's/\*\*ac\*\*/<span class="symbol">\&#9960;<\/span>/g' $SOURCE_TEMP
 sed -i 's/\*\*hp\*\*/<span class="symbol">\&#9829;<\/span>/g' $SOURCE_TEMP
 sed -i 's/->/\&rarr;/g' $SOURCE_TEMP
 #echo '<!DOCTYPE html><head><meta charset="utf-8"><title>Compact Pathfinder Stat Blocks</title><style>body{font-size:9pt;}.symbol{font-family: "Segoe UI Symbol",Symbola;}h2{display:block;font-size:1em;margin:0em;font-weight:bold;text-decoration:underline;}p{margin-top:0em;}blockquote(margin-top:0em;margin-bottom:0em;}</style></head><body>' > $HTM_TEMP
-echo -e '---\nlayout: default\n---' > $HTM_TEMP
+echo -e '---\nlayout: compact_stat\n---' > $HTM_TEMP
 $MARKDOWN_BIN $SOURCE_TEMP >> $HTM_TEMP
 #echo '</body></html>' >> $HTM_TEMP
 cp $HTM_TEMP $2
